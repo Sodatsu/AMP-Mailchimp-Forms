@@ -1,0 +1,28 @@
+{
+  "name": "amp-mailchimp-forms",
+  "version": "0.0.1",
+  "description": "Basic and advanced forms for Mailchimp for AMP HTML",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sodatsu/AMP-Mailchimp-Forms.git"
+  },
+  "keywords": [
+    "mailchimp",
+    "amp",
+    "amp-html",
+    "form"
+  ],
+  "author": {
+    "name": "Valentin Berclaz",
+    "url": "http://www.valentinberclaz.com/"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Sodatsu/AMP-Mailchimp-Forms/issues"
+  },
+  "homepage": "https://github.com/Sodatsu/AMP-Mailchimp-Forms#readme"
+}
